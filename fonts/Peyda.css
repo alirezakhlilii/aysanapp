@@ -1,0 +1,18 @@
+@font-face {
+    font-family: Peyda;
+    font-style:"normal";
+    font-weight:500;
+    src:url(../fonts/peydaWeb-light.woff) format("woff")
+}
+@font-face {
+    font-family: Peyda;
+    font-style:"normal";
+    font-weight:600;
+    src:url(../fonts/PeydaWeb-Bold.woff) format("woff")
+}
+@font-face {
+    font-family: Peyda;
+    font-style:"normal";
+    font-weight:700;
+    src:url(./PeydaWeb-Black.woff) format("woff")
+}
